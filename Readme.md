@@ -122,7 +122,7 @@ $ python3 heart_disease_prediction_using_machine_learning.py
 
  **We got the following accuracy/loss training curve plot**
 
-![](assets/1.png)
+<img src=assets/1.png width=550 height=260 ></img>
 
 ## :clap: And it's done!
 
