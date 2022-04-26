@@ -118,7 +118,7 @@ $ python3 heart_disease_prediction_using_machine_learning.py
 
  **Our Random Forest model gave best accuracy for Heart Disease Prediction after training via <code>SKLearn</code>**
 
-<img src=assets/2.png width=550 height=260></img>
+<img src=assets/2.png width=550 height=260 ></img>
 
  **We got the following accuracy/loss training curve plot**
 
