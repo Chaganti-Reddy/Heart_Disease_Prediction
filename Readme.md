@@ -8,7 +8,7 @@
     <!-- Python version -->
     <a href="https://www.python.org/"><img src="https://img.shields.io/badge/python-v3.8-blue?style=flat-square"/></a>
     <!-- License -->
-    <a href="https://github.com/Chaganti-Reddy/"><img src="https://img.shields.io/github/license/Chaganti-Reddy/Heart_Disease_Prediction?style=flat-square"/>
+    <a href="https://github.com/Chaganti-Reddy/Heart_Disease_Prediction/blob/master/LICENSE"><img src="https://img.shields.io/github/license/Chaganti-Reddy/Heart_Disease_Prediction?style=flat-square"/>
     <!-- Stars -->
     <a href="https://github.com/Chaganti-Reddy/"><img src="https://img.shields.io/github/stars/Chaganti-Reddy?style=flat-square"/></a>
     <!-- Forks -->
@@ -36,14 +36,12 @@ This will provide researchers and medical practitioners to establish a better..
 - [Table of Contents](#table-of-contents)
 - [:star: Features](#star-features)
 - [:warning: Frameworks and Libraries](#warning-frameworks-and-libraries)
-  - [Data Preprocessing](#data-preprocessing)
+- [:book: Data Preprocessing](#book-data-preprocessing)
 - [:link: Download](#link-download)
 - [:key: Prerequisites](#key-prerequisites)
 - [🚀&nbsp; Installation](#-installation)
 - [:bulb: How to Run](#bulb-how-to-run)
 - [:key: Results](#key-results)
-    - [Our Random Forest model gave best accuracy for Heart Disease Prediction after training via <code>SKLearn</code>](#our-random-forest-model-gave-best-accuracy-for-heart-disease-prediction-after-training-via-sklearn)
-    - [We got the following accuracy/loss training curve plot](#we-got-the-following-accuracyloss-training-curve-plot)
 - [:clap: And it's done!](#clap-and-its-done)
 - [:raising_hand: Citation](#raising_hand-citation)
 - [:beginner: Future Goals](#beginner-future-goals)
@@ -67,7 +65,7 @@ This will provide researchers and medical practitioners to establish a better..
   pandas is a fast, powerful, flexible and easy to use open source data analysis and manipulation tool,
 built on top of the Python programming language.
 
-### Data Preprocessing
+## :book: Data Preprocessing
 
 Data pre-processing is an important step for the creation of a machine learning
 model. Initially, data may not be clean or in the required format for the model which
@@ -118,13 +116,11 @@ $ python3 heart_disease_prediction_using_machine_learning.py
 
 ## :key: Results
 
-#### Our Random Forest model gave best accuracy for Heart Disease Prediction after training via <code>SKLearn</code>
-
-####
+ **Our Random Forest model gave best accuracy for Heart Disease Prediction after training via <code>SKLearn</code>**
 
 <img src=assets/2.png width=550 height=260></img>
 
-#### We got the following accuracy/loss training curve plot
+ **We got the following accuracy/loss training curve plot**
 
 ![](assets/1.png)
 
