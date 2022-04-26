@@ -154,5 +154,5 @@ Made with :heart:&nbsp; by [Chaganti Reddy](https://github.com/Chaganti-Reddy/)
 
 ## :eyes: License
 
-MIT © [Chaganti Reddy](https://github.com/Chaganti-Reddy/Heart_Disease_Prediction/blob/main/LICENSE)
+MIT © [Chaganti Reddy](https://github.com/Chaganti-Reddy/Heart_Disease_Prediction/blob/master/LICENSE)
 </h1>
