@@ -124,6 +124,8 @@ $ python3 heart_disease_prediction_using_machine_learning.py
 
 <img src=assets/1.png width=550 height=260 ></img>
 
+**Check out the report [here](/reports/Chaganti%20Venkatarami%20Reddy.pdf)
+
 ## :clap: And it's done!
 
 Feel free to mail me for any doubts/query
