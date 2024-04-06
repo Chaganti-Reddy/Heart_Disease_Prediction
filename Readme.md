@@ -1,7 +1,7 @@
 <h1 align="center">Heart Disease Prediction</h1>
 
 <div align= "center"><img src="assets/health.webp" width="250" height="250"/>
-  <h4> Heart Disease Prediction System built with SKLearn using Deep Learning Neural Networks by applying multiple Deep Learning Algorithms to give the best model. It can predict if the person is suffering from heart disease or not by taking some input data values.</h4>
+  <h4> Heart Disease Prediction System built with SKLearn using Deep Learning Neural Networks by applying multiple Deep Learning Algorithms to give the best results. It can predict if the person is suffering from heart disease or not by taking some input data values.</h4>
 </div>
 
 <div align="center">
